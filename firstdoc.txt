@@ -14,4 +14,4 @@ i love javascript
 
 第六次
 
-dev
+dev.configuration
